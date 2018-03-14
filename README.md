@@ -1,0 +1,2 @@
+# JNotebook-scratchpad
+Draft notebooks
